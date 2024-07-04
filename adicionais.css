@@ -1,0 +1,82 @@
+
+    input[type=checkbox]:checked ~ td {
+        text-decoration: line-through;
+      }
+      
+      .table-row-selected {
+        text-decoration: line-through;
+      }
+      
+      select {
+      font-family: Arial, sans-serif;
+      font-size: 16px;
+      color: #ffd700;
+      background-color: #191c24;
+      border: 2px solid #ffd700;
+      border-radius: 5px;
+      padding: 8px;
+      width: 200px;
+      }
+      
+      select:focus {
+      border-color: #ffd700;
+      box-shadow: 0 0 5px #ffd700;
+      }
+      
+      select {
+      font-family: Arial, sans-serif;
+      font-size: 16px;
+      color: #ffd700;
+      background-color: #191c24;
+      border: 2px solid #ffd700;
+      border-radius: 5px;
+      padding: 8px;
+      width: 117px;
+      }
+      
+      select:focus {
+      border-color: #ffd700;
+      box-shadow: 0 0 5px #ffd700;
+      }
+      
+        .test2{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+      
+        }
+      
+        .teste3{
+          top: 15px;
+          margin-bottom: 50px;
+        }
+      
+        .text3{
+          color: #EB1616;
+        }
+      
+
+        select {
+            font-family: Arial, sans-serif;
+            font-size: 16px;
+            color: #fff;
+            background-color: #191c24;
+            border: 2px solid #ffd700;
+            border-radius: 5px;
+            padding: 8px;
+            width: 150px;
+          }
+          
+          select:focus {
+            border-color: #ffd700;
+            box-shadow: 0 0 5px #ffd700;
+          }
+          
+          
+          input {
+            width: 100px;
+            border-radius: 10px;
+            background-color: #000000;
+            color: #fff;
+          }
+          

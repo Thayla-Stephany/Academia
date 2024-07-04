@@ -1,0 +1,109 @@
+OBS.: TIREI O INDEX.HTML. VERSÕES ANTERIORES TEM.
+ASSETS, INDEX.HTML, GITATTRIBUTES É DO TEMPLATE DA ACADEMIA (LAYOUT)
+
+2023
+Fizemos login do dono da academia
+
+30/03 
+Fizemos um cadastro dos alunos com o feedback que deu certo e que deu erro
+Não é possível cadastrar um aluno com o código de identificação igual
+
+10/04
+Editar e excluir funcionam
+OBS.: Editar não trás a descrição;
+OBS².:E o select html não funciona, apenas o primeiro; (FUNCIONA AGORA. DIA 13/04)
+OBS³.: O comprimento não fica do tamanho da lista, ou seja, leve bug pq fica feio.
+
+11/04
+CSS do form de login do admnistrador arrumado
+Box shadow dos forms arrumados
+input da descrição arrumada (agr traz a informação do banco)
+
+13/04
+Arrumamos feedback com cores diferente para erro e acerto;
+Fez o cadastro/editar/deletar/lista dos exercícios;
+O SELECT HTML funciona;
+Pesquisar funciona só com aluno;
+Adicionamos um campo novo na tabela exercicios chamado Link.
+
+14/04
+Não conseguimos tirar a extensão .php;
+Criamos um form pra decidir o tipo de usuário;
+Criou lista/login/pagina usuário;
+Criou ícone de evento;
+Alterações do banco de dados, treino de segunda á sexta.
+
+18/04
+Trocou a tabela da lista de alunos da pagina do adm pra responsivo
+Mudamos o header do logout pra pagina do index
+Não consiguimos inserir a serie e a repeticão na ficha de treino do aluno
+Conseguimos inserir os dados da outra tabela usando o checkbox
+
+
+20/04
+Arrumamos a logo no celular;
+Adiconamos os exercicios que vamos usar.
+
+21/04
+Adicionamos uma tabela eventos no banco de dados;
+Mudamos os ícones na lateral;
+Fizemos uma lista para eventos e cadastrar.
+
+24/04
+Modifou o banco de dados, apagou o campo cod e apagou campos do dia da semana;
+Conseguiu arrumar a ficha id_aluno, serie e repeticao.
+
+25/04
+Não conseguimos usar o select pra separar os músculos.
+
+26/04
+Tiramos os SELECT HTML;
+Colocamos o Perfil para alunos.
+
+27/04
+Ouve alterações no B.D do double para varchar;
+Conseguimos arrumar o pesquisar na ficha; 
+A ficha cadastra os exercicios;
+Tiramos o search e colocamos em cada parte separado;
+Ouve alteração na tabela para ser responsivo no celular;
+Problema com a msg na ficha que aparece no perfil.
+
+28/04
+Alteração no B.D. Não existe tbl_administrador;
+O index.php não existe mais, o layout é um hotsite;
+Começo de alteração no hotsite.
+
+01/05
+Colocamos select para trazer a ficha de exercicio;
+Mudamos a cor do index.html;
+Trocou imagens por video no index.html.
+
+02/05
+O checkbox fica marcado quando faz o logout;
+Trocou o css select do feedback;
+Arrumou o login do administrador.
+
+03/05
+Checkbox continua dando erro;
+Arrumou editar/deletar da ficha;
+Alteramos o B.D, adicionando id_exercicio na tabela treino;
+Trocou foto para um ícone de logout;
+Trocou os ícones do menu dos alunos.
+
+04/05
+Trocou o amarelo para outro tom no index.html;
+Arrumou no celular as cores no header(index.html);
+Modificou a lista de eventos;
+Colocamos a lista de eventos para o aluno.
+
+05/05
+A url funciona sem a extenção;
+O checkbox desmarca quando faz o logout;
+
+10/05
+Correção dos bugs de acentuação;
+Correção do link do video que nao cadastrava na ficha do aluno;
+Correção do css que ficava bugado;
+
+15/06
+Exclui campos da tabela do B.D alunos e no código.
